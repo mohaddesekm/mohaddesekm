@@ -2,6 +2,7 @@
 
 I'm a junior Front-End developer.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohaddese-karimi-b22b5b415)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhaddese@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-34c9ff.svg?logo=Telegram&logoColor=white)](https://t.me/mohaddesekm)
 
